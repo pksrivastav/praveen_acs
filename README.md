@@ -7,10 +7,10 @@ E:\wamp\bin\php\php5.5.12;
 
 3- Then execute given bellow script using command line. 
 
-php create_issue.php username password https://github.com/username/repository_name "issue title" "issue body"
+php createIssue.php username password https://github.com/username/repository_name "issue title" "issue body"
 
 
-php create_issue.php username password https://bitbucket.org/username/repository_name "issue title" "issue content"
+php createIssue.php username password https://bitbucket.org/username/repository_name "issue title" "issue content"
 
 
 
