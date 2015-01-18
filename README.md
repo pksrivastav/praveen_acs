@@ -5,7 +5,9 @@ E:\wamp\bin\php\php5.5.12;
 
 2- then open  Command prompt
 
-3- Then execute given bellow script using command line. 
+3- Then execute given bellow script using command line.
+
+use username and password given in mail
 
 php createIssue.php username password https://github.com/username/repository_name "issue title" "issue body"
 
